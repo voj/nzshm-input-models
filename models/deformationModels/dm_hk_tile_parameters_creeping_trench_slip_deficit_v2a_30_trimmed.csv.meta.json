@@ -1,0 +1,4 @@
+{
+  "description": "2022 trench-creeping model, but trimmed at 25.5 S (actual Louisville Ridge) - Sept 2026",
+  "compatibility": "FaultModel SBD_HKR_TC_30_TRIM"
+}
