@@ -1,0 +1,5 @@
+{
+  "modelName": "CFM 0.9revD all NZ faults, depth 90, with shallower TVZ depths",
+  "crustal": true,
+  "partition": "CRUSTAL"
+}

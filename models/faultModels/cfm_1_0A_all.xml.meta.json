@@ -1,0 +1,6 @@
+{
+  "modelName": "CFM 1.0 all NZ faults, with Dfc depths and CFM Domains",
+  "crustal": true,
+  "tvzDomain": "4",
+  "partition": "CRUSTAL"
+}
